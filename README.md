@@ -32,7 +32,7 @@ I craft intuitive, human-centered digital experiences with a keen eye for detail
     <img src="https://img.shields.io/badge/LinkedIn-Damla%20Gedikli-c084fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://damla-designs.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-My%20Work-c084fc?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
